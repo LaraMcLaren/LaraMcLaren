@@ -101,4 +101,6 @@ Never use herokuapp.com — all Heroku free-tier URLs are permanently dead.
 - Theme: tokyonight / tokyonight-duo throughout.
 - Output full raw README.md — no code fences wrapping the output, nothing omitted.
 
+[PASTE YOUR FULL RESUME TEXT HERE]
 
+── END OF PROMPT ─────────────────────────────────────────────────────────────────────
