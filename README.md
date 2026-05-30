@@ -1,11 +1,5 @@
 
 
-<div align="center">
-  <a href="https://komarev.com/ghpvc/?username=IndiraKumar Panneerselvam&color=70a5fd&style=flat-square&label=Profile+Views">
-    <img src="https://komarev.com/ghpvc/?username=IndiraKumar&color=70a5fd&style=flat-square&label=Profile+Views" alt="Profile Views"/>
-  </a>
-</div>
-
 <br/>
 
 <div align="center">
