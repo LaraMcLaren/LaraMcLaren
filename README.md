@@ -133,11 +133,11 @@ print(me.motto())
 
 ---
 
-## 🏆 Trophy Wall
+### 🌐 Portfolio
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=LaraMcLaren&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4"/>
-</div>
+🔗 https://indirakumar.in
+
+DevOps Engineer | AWS | Kubernetes | Docker | Terraform | ArgoCD
 
 ---
 
