@@ -137,7 +137,7 @@ print(me.motto())
 
 🔗 https://indirakumar.in
 
-DevOps Engineer | AWS | Kubernetes | Docker | Terraform | Jenkins
+DevOps Engineer | AWS | Kubernetes | Docker | Terraform | Jenkins | Ansible
 
 ---
 
