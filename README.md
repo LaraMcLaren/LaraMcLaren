@@ -1,245 +1,147 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Indira+Kumar+P&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AWS+DevOps+%7C+Cloud+Engineer+%7C+Building+Scalable+Cloud-Native+Architectures&descAlignY=62&descSize=16" width="100%"/>
+<!-- =========================================================
+     INDIRA KUMAR PANNEERSELVAM — GITHUB PROFILE README
+========================================================= -->
 
 <div align="center">
-  <a href="https://komarev.com/ghpvc/?username=LaraMcLaren&color=70A5FD&style=flat-square&label=Profile+Views">
-    <img src="https://komarev.com/ghpvc/?username=LaraMcLaren&color=70A5FD&style=flat-square&label=Profile+Views"/>
-  </a>
-</div>
+
+# 👋 Hello, I'm Indira Kumar Panneerselvam
+
+### AI-Powered UI/UX Designer & MERN Stack Developer
+
+**Designing meaningful experiences • Building modern web applications • Exploring AI-assisted development**
 
 <br/>
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=AWS+DevOps+%26+Cloud+Engineer+%F0%9F%9A%80;CI%2FCD+%7C+Terraform+%7C+Kubernetes+Enthusiast+%E2%98%81%EF%B8%8F;MERN+Stack+%2B+Cloud-Native+Builder+%F0%9F%94%A7;Crafting+Scalable+%26+Secure+Architectures+%F0%9F%94%90" alt="Typing SVG"/>
+<a href="mailto:disney.indhru@gmail.com">
+  <img src="https://img.shields.io/badge/Email-disney.indhru%40gmail.com-1F3A5F?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/LaraMcLaren">
+  <img src="https://img.shields.io/badge/GitHub-LaraMcLaren-111111?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.behance.net/indirakumar369">
+  <img src="https://img.shields.io/badge/Behance-Portfolio-1769FF?style=for-the-badge&logo=behance&logoColor=white"/>
+</a>
+
 </div>
 
 ---
 
-## 👩‍💻 About Me
+## 👨‍💻 About Me
 
-<img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+I'm an **AI-Powered UI/UX Designer and MERN Stack Developer** with professional experience in UI/UX and frontend development.
 
-```python
-class IndiraKumar:
-    def __init__(self):
-        self.name        = "Indira Kumar Panneerselvam"
-        self.location    = "Bangalore, Karnataka, India 🇮🇳"
-        self.degree      = "B.E. in Computer Science"
-        self.email       = "disney.indhru@gmail.com"
+I enjoy combining **design thinking, modern frontend technologies, MERN stack development, and AI-assisted workflows** to build practical and user-focused digital products.
 
-        self.stack = [
-            "AWS (EC2, S3, VPC, RDS, IAM, ELB, CloudWatch)",
-            "Docker", "Kubernetes", "Terraform", "Ansible",
-            "Jenkins", "GitHub Actions", "CloudFormation",
-            "Node.js", "React.js", "Express.js", "MongoDB"
-        ]
+### What I do
 
-        self.currently_learning = [
-            "Advanced Kubernetes Patterns",
-            "AWS Solution Architect Concepts",
-            "Python for DevOps Automation",
-            "GitOps & ArgoCD"
-        ]
-
-        self.fun_fact = "I went from UI/UX design to cloud infrastructure! 🎨☁️"
-
-    def motto(self):
-        return "Automate everything. Monitor everything. Secure everything. 🔐"
-
-me = IndiraKumar()
-print(me.motto())
-```
-
-<br clear="right"/>
+- 🎨 Design modern and user-centered UI/UX experiences
+- 🔍 Work with UX research, user flows and usability
+- ✏️ Create wireframes and interactive prototypes
+- 💻 Build responsive web applications using React.js
+- ⚙️ Develop MERN stack applications
+- 🔗 Work with REST APIs and modern development tools
+- ☁️ Deploy applications using modern cloud platforms
+- 🤖 Use AI tools for ideation, coding, debugging and rapid prototyping
+- 🚀 Build freelance websites and independent digital products
 
 ---
 
-## 🛠️ Tech Stack
+## 🧠 My Core Skills
 
-**☁️ Cloud Platforms**
+### 🎨 UI/UX Design
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![EC2](https://img.shields.io/badge/EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white)
-![S3](https://img.shields.io/badge/S3-569A31?style=flat-square&logo=amazons3&logoColor=white)
-![RDS](https://img.shields.io/badge/RDS-527FFF?style=flat-square&logo=amazonrds&logoColor=white)
-![VPC](https://img.shields.io/badge/VPC-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![CloudWatch](https://img.shields.io/badge/CloudWatch-FF4F8B?style=flat-square&logo=amazonaws&logoColor=white)
-![IAM](https://img.shields.io/badge/IAM-DD344C?style=flat-square&logo=amazonaws&logoColor=white)
-![Elastic Beanstalk](https://img.shields.io/badge/Elastic+Beanstalk-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![UX Research](https://img.shields.io/badge/UX%20Research-1F3A5F?style=flat-square)
+![User Flow](https://img.shields.io/badge/User%20Flow-1F3A5F?style=flat-square)
+![Wireframing](https://img.shields.io/badge/Wireframing-1F3A5F?style=flat-square)
+![Prototyping](https://img.shields.io/badge/Prototyping-1F3A5F?style=flat-square)
+![Interaction Design](https://img.shields.io/badge/Interaction%20Design-1F3A5F?style=flat-square)
+![Responsive Design](https://img.shields.io/badge/Responsive%20Design-1F3A5F?style=flat-square)
+![Usability Testing](https://img.shields.io/badge/Usability%20Testing-1F3A5F?style=flat-square)
+![Design Systems](https://img.shields.io/badge/Design%20Systems-1F3A5F?style=flat-square)
+![Typography](https://img.shields.io/badge/Typography-1F3A5F?style=flat-square)
+![Accessibility](https://img.shields.io/badge/Accessibility-1F3A5F?style=flat-square)
 
-**⚙️ DevOps & IaC**
+### 🛠️ Design Tools
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![CloudFormation](https://img.shields.io/badge/CloudFormation-FF4F8B?style=flat-square&logo=amazonaws&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Adobe XD](https://img.shields.io/badge/Adobe%20XD-FF61F6?style=flat-square&logo=adobexd&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white)
+![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=flat-square&logo=adobeillustrator&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)
+![Miro](https://img.shields.io/badge/Miro-FFD02F?style=flat-square&logo=miro&logoColor=050038)
+![Webflow](https://img.shields.io/badge/Webflow-146EF5?style=flat-square&logo=webflow&logoColor=white)
+![Wix](https://img.shields.io/badge/Wix-0C0C0C?style=flat-square&logo=wix&logoColor=white)
 
-**💻 Languages & Frameworks**
+### 💻 Frontend Development
 
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![Flexbox](https://img.shields.io/badge/Flexbox-1572B6?style=flat-square)
+![CSS Grid](https://img.shields.io/badge/CSS%20Grid-1572B6?style=flat-square)
+![REST API](https://img.shields.io/badge/REST%20API-1F3A5F?style=flat-square)
 
-**🗄️ Databases**
+### ⚙️ MERN Stack
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Amazon Aurora](https://img.shields.io/badge/Aurora-527FFF?style=flat-square&logo=amazonrds&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![React](https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 
-**📊 Monitoring & Tools**
+### 🔧 Development Tools
 
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+### ☁️ Deployment & Cloud Platforms
+
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black)
+![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white)
+![MongoDB Atlas](https://img.shields.io/badge/MongoDB%20Atlas-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white)
 
 ---
 
-## 📊 GitHub Stats
+# 🤖 AI-Assisted Design & Development
 
-<div align="center">
-  <a href="https://github.com/LaraMcLaren">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LaraMcLaren&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
-  </a>
-  <a href="https://github.com/LaraMcLaren">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LaraMcLaren&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
-  </a>
-</div>
+I use AI as a **productivity and development partner** across the design and development lifecycle.
 
----
+### AI Tools I Work With
 
-## 🔥 Streak Stats
+![ChatGPT](https://img.shields.io/badge/ChatGPT-412991?style=flat-square&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square)
+![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=google&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000000?style=flat-square&logo=githubcopilot&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-111111?style=flat-square)
+![Replit](https://img.shields.io/badge/Replit-F26207?style=flat-square&logo=replit&logoColor=white)
+![Bolt](https://img.shields.io/badge/Bolt-111111?style=flat-square)
+![Lovable](https://img.shields.io/badge/Lovable-FF4F8B?style=flat-square)
+![Uizard](https://img.shields.io/badge/Uizard-6C63FF?style=flat-square)
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=LaraMcLaren&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10" alt="GitHub Streak"/>
-</div>
+### AI Workflow
 
----
-
-## 📈 Activity Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LaraMcLaren&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" width="100%"/>
-</div>
-
----
-
-### 🌐 Portfolio
-
-🔗 https://indirakumar.in
-
-DevOps Engineer | AWS | Kubernetes | Docker | Terraform | Jenkins | Ansible
-
----
-
-## 💼 Work Experience
-
-<details>
-<summary>☁️ <strong>PUMO TECHNOVATION</strong> — AWS Cloud Computing, DevOps & Backend Dev (Python) | Jan 2026 – Present | Remote</summary>
-
-<br/>
-
-> ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white) ![EC2](https://img.shields.io/badge/EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white) ![RDS](https://img.shields.io/badge/RDS-527FFF?style=flat-square&logo=amazonrds&logoColor=white) ![VPC](https://img.shields.io/badge/VPC-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-
-- 🚀 Deployed cloud-based applications using **AWS Elastic Beanstalk** and **Python Flask**, achieving scalable backend delivery.
-- 🏗️ Architected scalable backend systems using **EC2, RDS (MySQL), and VPC** following AWS best practices.
-- 🔒 Implemented **IAM security policies**, auto scaling groups, and load balancing to ensure high availability and secure access.
-- 📊 Gained hands-on exposure to DevOps monitoring and observability using **CloudWatch** across deployed services.
-
-</details>
-
-<details>
-<summary>🎨 <strong>PINESPHERE INCUBATION CENTER</strong> — UI/UX Designer & Full Stack Developer | Sept 2024 – Sept 2025 | Bangalore</summary>
-
-<br/>
-
-> ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-
-- 💻 Collaborated with cross-functional teams to design and deploy **responsive web applications** using the MERN stack.
-- ☁️ Participated in **application hosting, deployment workflows, and performance optimization** on cloud platforms.
-- 🎨 Designed and improved UI/UX experiences, boosting **frontend usability and application performance**.
-- 🔧 Supported development and deployment activities using **Git** and modern development tools across the full SDLC.
-
-</details>
-
----
-
-## 🚀 Featured Projects
-
-<div align="center">
-
-| Project | Stack | Highlights |
-|:---|:---|:---|
-| [**🏗️ AWS 3-Tier Architecture**](#) | EC2 · RDS · S3 · ALB · Auto Scaling · CloudWatch · IAM | Designed & deployed scalable 3-tier infra with ALB + Auto Scaling for HA; secured with VPC, NAT Gateway, IAM roles & CloudWatch alerting |
-| [**🛒 Cloud-Native Retail Microservices**](#) | Docker · Kubernetes · Jenkins · GitHub Actions · Terraform · CloudFormation · Prometheus · Grafana · SNS · SQS · SES | Built full microservices platform on AWS with automated CI/CD, IaC provisioning, and centralized Prometheus + Grafana monitoring |
-| [**🍔 Food Cart Web App**](#) | MongoDB · Express.js · React.js · Node.js | Full-stack food ordering platform with responsive UI, optimized frontend performance, and cloud database integration |
-
-</div>
-
----
-
-## 🏅 Achievements & Certifications
-
-<div align="center">
-
-| 🎖️ | Achievement | Details |
-|:---:|:---|:---|
-| 🎓 | **Masters in AWS Cloud & DevOps** | Oct 2025 – May 2026 · Full program completion |
-| 🏅 | **Certified in MERN Stack** | Jan 2025 – Mar 2025 · Full-stack certification |
-| 🎨 | **Masters in UI/UX Design** | Sept 2024 – Nov 2024 · Professional design certification |
-| 💼 | **Internship — PUMO Technovation** | AWS Cloud Computing, DevOps & Python Backend |
-| ☁️ | **AWS Cloud Practitioner Track** | Hands-on experience with 15+ AWS services |
-| 🏗️ | **3-Tier Architecture Project** | End-to-end AWS production architecture deployment |
-
-</div>
-
----
-
-## 🎓 Education & Currently Learning
-
-<div align="center">
-
-| 🎓 Degree | 🏫 Institution | 📅 Year | 📊 Score |
-|:---|:---|:---:|:---:|
-| B.E. in Computer Science | Annai Teresa College of Engineering | 2013 – 2020 | CGPA: 7.21 |
-
-</div>
-
-<br/>
-
-**🧠 Currently Levelling Up:**
-
-```
-🌐 AWS Solutions Architect  →  Multi-region HA, DR strategies, Cost Optimization
-🐳 Kubernetes Advanced       →  Helm, StatefulSets, HPA, Service Mesh (Istio)
-🤖 GitOps                    →  ArgoCD, Flux, Progressive Delivery
-🐍 Python for DevOps         →  Boto3, AWS SDK, Automation Scripts
-🔐 Cloud Security            →  AWS Security Hub, GuardDuty, SCPs
-```
-
----
-
-<div align="center">
-  <i>"Automate everything. Monitor everything. Secure everything."</i>
-  <br/><br/>
-  <a href="mailto:disney.indhru@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://linkedin.com/in/indira-kumar-panneerselvam">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://github.com/LaraMcLaren">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
-  </a>
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
+```text
+Idea
+  ↓
+AI-Assisted Research
+  ↓
+UX Ideation
+  ↓
+Wireframe
+  ↓
+Prototype
+  ↓
+UI Design
+  ↓
+AI-Assisted Development
+  ↓
+Debugging & Optimization
+  ↓
+Deployment
